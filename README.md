@@ -1,4 +1,4 @@
-# BRANHARD E-Commerce Website
+# BRANHARD  Website
 
 A premium, modern e-commerce platform built with React, Vite, Tailwind CSS, and Lucide icons. Fully responsive with shopping cart functionality, product search, and professional UI/UX.
 
@@ -12,7 +12,7 @@ A premium, modern e-commerce platform built with React, Vite, Tailwind CSS, and 
 
 1. **Navigate to the project directory:**
 ```bash
-cd branhard-ecommerce
+cd branhard
 ```
 
 2. **Install dependencies:**
