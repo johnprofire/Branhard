@@ -2108,7 +2108,7 @@ export default function BranhardStore() {
           FOOTER
       ================================================== */}
 
-      <Footer />
+      </Footer>
 
     </div>
   );
